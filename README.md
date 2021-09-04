@@ -1,2 +1,2 @@
-# C-
+# Cpp
 Some random c++ code
